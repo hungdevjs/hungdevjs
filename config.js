@@ -22,7 +22,7 @@ module.exports = {
   ],
   author: {
     name: 'Nguyễn Việt Hưng',
-    photo: '/avatar.jpg',
+    photo: '/photo.jpg',
     bio: 'Junior Front-end Developer',
     contacts: {
       email: 'hungdev.js@gmail.com',
