@@ -26,8 +26,8 @@ module.exports = {
     bio: 'Junior Front-end Developer',
     contacts: {
       email: 'hungdev.js@gmail.com',
-      facebook: 'https://facebook.com/imvietthungg',
-      github: 'https://github.com/hungdevjs?tab=repositories'
+      facebook: 'imvietthungg',
+      github: 'hungdevjs'
     }
   }
 };
